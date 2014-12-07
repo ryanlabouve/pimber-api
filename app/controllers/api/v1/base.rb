@@ -4,7 +4,7 @@ module API
   module V1
     class Base < Grape::API
       mount API::V1::Links
-      # mount API::V1::AdditionalResources
+      mount API::V1::Tags
 
       add_swagger_documentation(
         api_version: "v1",
