@@ -29,3 +29,7 @@ foreman run bundle exec rake db:seed
 [Foreman and Environment Varialbes](http://mauricio.github.io/2014/02/09/foreman-and-environment-variables.html)
 [Adding Environment Variable to Heroku](https://devcenter.heroku.com/articles/procfile)
 [Heroku Config and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+
+## Additional Resources
+
+If you are interested in this project, it's worth checking out [https://www.devmynd.com/blog/2014-7-rails-ember-js-with-the-ember-cli-redux-part-1-the-api-and-cms-with-ruby-on-rails].
