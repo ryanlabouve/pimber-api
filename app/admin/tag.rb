@@ -13,6 +13,6 @@ ActiveAdmin.register Tag do
   #   permitted << :other if resource.something?
   #   permitted
   # end
-  permit_params :name, :count
+  permit_params :id, :name, :count
 
 end
