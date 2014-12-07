@@ -63,3 +63,6 @@ group :development, :test do
   gem "shoulda-matchers"
   gem "spring-commands-rspec"
 end
+
+gem "pinboard"
+gem "foreman"
