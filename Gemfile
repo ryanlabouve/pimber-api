@@ -66,3 +66,9 @@ end
 
 gem "pinboard"
 gem "foreman"
+
+gem "active_model_serializers"
+gem "grape"
+gem "grape-active_model_serializers"
+gem "grape-swagger-rails"
+gem "rack-cors", require: "rack/cors"
