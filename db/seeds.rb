@@ -8,6 +8,6 @@ pinboard.posts.each do |post|
     :description => post.description,
     :read => false,
     :date_saved => post.time,
-    :tags => post.tag.join(' ')
+    :tags => post.tag.sort.join(' ')
   )
 end

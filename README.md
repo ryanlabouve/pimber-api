@@ -6,6 +6,8 @@ This API is a sample backend for pimber, an ember app for exploring Pinboard.in 
 
 I have foreman setup, but it's just running rails right now. But if you're so inclined `foreman start`
 
+If you're running the project locally you can see the API docs at [http://localhost:3002/documentation](http://localhost:3002/documentation)
+
 
 ## Seeding Database
 
